@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
 main{
-    background-color : black;
     width : 150px;
     height : 150px;
+    background-color : black;
 }
 p{
-    margin-left : 32px;
-    padding : 10px;
     color : white;
+    margin-left : 32px;
+    padding : 10px; 
 }
